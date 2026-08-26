@@ -4,6 +4,7 @@
  
 | Enfoque | Metodologías Tradicionales (Cascada) | Metodologías Ágiles (Scrum) |
 |---|---|---|
+| **Enfoque** | Predictivo, secuencial y orientado a la planificación previa. Busca seguir fases definidas y controlar los cambios. | Iterativo e incremental, orientado a la adaptación, colaboración y entrega continua de valor. |
 | **Manejo de requisitos** | Se definen al inicio; se busca minimizar cambios. | Se aceptan y aprovechan los cambios. |
 | **Ciclo de vida** | Fases: Análisis → Diseño → Codificación → Pruebas → Implantación. | Sprints cortos (1–4 semanas), con un ciclo repetido en cada uno. |
 | **Entrega** | Una sola entrega al final del proyecto. | Entrega continua de software funcionando. |
