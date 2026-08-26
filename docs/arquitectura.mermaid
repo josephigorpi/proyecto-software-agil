@@ -1,0 +1,7 @@
+flowchart LR
+    A["Cliente Web<br/>Next.js (Puerto 3000)"]
+    B["API<br/>FastAPI (Puerto 8000)"]
+    C["Base de Datos<br/>PostgreSQL (5432)"]
+
+    A -->|"HTTP/JSON"| B
+    B -->|"SQLAlchemy"| C
