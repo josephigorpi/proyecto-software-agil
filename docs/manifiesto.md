@@ -1,26 +1,34 @@
-# 📜 Manifiesto Ágil y Aplicación al Proyecto
+# 📜 Manifiesto Ágil y su Aplicación en el Proyecto
 
-## 4 Valores del Manifiesto Ágil
+## Los 4 Valores del Manifiesto Ágil
 
-1. **Individuos e interacciones** sobre procesos y herramientas
-2. **Software funcionando** sobre documentación exhaustiva
-3. **Colaboración con el cliente** sobre negociación contractual
-4. **Respuesta ante el cambio** sobre seguimiento de un plan
+El Manifiesto Ágil propone dar mayor importancia a los siguientes aspectos:
+
+1. **Individuos e interacciones** sobre procesos y herramientas.
+2. **Software funcionando** sobre documentación exhaustiva.
+3. **Colaboración con el cliente** sobre negociación contractual.
+4. **Respuesta ante el cambio** sobre seguir estrictamente un plan.
+
+Esto no significa que los elementos situados a la derecha no tengan valor, sino que se priorizan los elementos situados a la izquierda cuando ambos entran en conflicto.
 
 ---
 
-## 3 Principios Aplicados al Proyecto de Comercio Electrónico
+## Aplicación de 3 Principios Ágiles al Proyecto de Comercio Electrónico
 
-### ✅ Principio: Entregar con frecuencia
-> Entregamos una versión operativa cada 2 semanas. Ejemplo: Sprint 1 = Productos; Sprint 2 = Carrito; Sprint 3 = Pedidos. El cliente prueba y orienta.
+### ✅ Principio: Entregar software funcionando con frecuencia
 
-### ✅ Principio: Aceptar el cambio
-> Si surge una nueva necesidad (ej: integración con pasarela de pagos), se agrega al Backlog y se planifica en el siguiente ciclo. No se rechaza ni se obliga a renegociar todo el proyecto.
+> El proyecto se divide en ciclos de dos semanas, generando un incremento funcional al finalizar cada Sprint. Por ejemplo, durante el primer Sprint se puede desarrollar el módulo de productos; en el segundo, el carrito de compras; y en el tercero, la gestión de pedidos. Cada incremento puede ser revisado por el cliente antes de continuar con las siguientes funcionalidades.
 
-### ✅ Principio: Medir progreso por software funcionando
-> No importa cuántos documentos o diagramas tengamos. Si la funcionalidad no está funcionando y demostrable, **no se considera terminada**. La evidencia es el producto ejecutable.
+### ✅ Principio: Dar la bienvenida a los cambios
+
+> Si durante el desarrollo surge una nueva necesidad, como la integración de una pasarela de pagos, no es necesario modificar completamente el proyecto. La funcionalidad se registra en el Product Backlog, se prioriza y puede desarrollarse en un Sprint posterior según las necesidades del negocio.
+
+### ✅ Principio: Medir el avance mediante software funcionando
+
+> El progreso del proyecto se demuestra a través de funcionalidades operativas y verificables. Tener documentos, diagramas o código sin ejecutar no significa necesariamente que una tarea esté terminada. Una funcionalidad se considera realmente completada cuando puede utilizarse y demostrarse correctamente.
 
 ---
 
 ## Conclusión
-El enfoque ágil permite que la plataforma de comercio electrónico evolucione junto con las necesidades reales de los usuarios y el mercado, reduciendo el riesgo de entregar algo obsoleto o que no cumple lo que el cliente realmente necesita. 
+
+Aplicar un enfoque ágil al desarrollo de una plataforma de comercio electrónico permite construir el producto de manera progresiva y mantenerlo alineado con las necesidades de los usuarios y las condiciones cambiantes del mercado. La entrega de funcionalidades en ciclos cortos, junto con la retroalimentación continua, facilita realizar ajustes oportunos y reduce la posibilidad de terminar con un sistema que ya no responda a las necesidades reales del cliente.
